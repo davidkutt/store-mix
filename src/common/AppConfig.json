@@ -1,0 +1,54 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "circleCategory"
+    },
+    {
+      "layout": "bannerHigh",
+      "tag": 273
+    },
+//    {
+//      "imageBanner": "https://mstore.io/wp-content/uploads/2017/11/woman-large.png",
+//      "layout": "bannerImage",
+//      "height": 118,
+//      "category": 21
+//    },
+//    {
+//      "imageBanner": "https://mstore.io/wp-content/uploads/2017/06/man-large.png",
+//      "layout": "bannerImage",
+//      "height": 118,
+//      "category": 22
+//    },
+    {
+      "name": "featureProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 30
+    },
+    {
+      "name": "saleProducts",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 31
+    }
+    //    ,{
+    //      "name": "decorProducts",
+    //      "image": "",
+    //      "layout": "threeColumn",
+    //      "category": 22
+    //    },
+    //    {
+    //      "name": "musicProducts",
+    //      "image": "",
+    //      "layout": "threeColumn",
+    //      "category": 21
+    //    },
+    //    {
+    //      "name": "clothingProducts",
+    //      "image": "",
+    //      "layout": "threeColumn",
+    //      "category": 16
+    //    }
+  ],
+  "MainColor": "#00648A"
+}
